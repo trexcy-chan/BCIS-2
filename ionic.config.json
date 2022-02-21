@@ -1,0 +1,7 @@
+{
+  "name": "BCIA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
